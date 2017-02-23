@@ -6,7 +6,7 @@
   "Author": "bluray",                    
   "Version": "1.0.0",                         
   "Language": "csharp",                      
-  "Website": "http://www.getwox.com",        
+  "Website": "https://github.com/vladimirantos/Wox.Plugins.Wiki",        
   "IcoPath": "icon.png",              
   "ExecuteFileName": "Wox.Plugins.Wiki.dll"   
 }
